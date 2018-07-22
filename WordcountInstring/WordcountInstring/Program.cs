@@ -12,18 +12,10 @@ namespace WordcountInstring
         static void Main(string[] args)
         {
 
-            //Console.WriteLine("Enter the string");
-            //WordCount.Count(Console.ReadLine());
+            Console.WriteLine("Enter the string");
+            WordCount.Count(Console.ReadLine());
 
-            Console.WriteLine("Running as {0}", Environment.GetEnvironmentVariable("PROCESSOR_ARCHITECTURE"));
-            using (HttpListener s = new HttpListener())
-            {
-                s.Prefixes.Add("http://localhost:49154/vshub/418f29b9cebf4d6bae64d16162f56832/");
-                s.Start();
-                Console.WriteLine("Server started");
-            }
-
-            Console.WriteLine("Server stopped");
+         
 
         }
 

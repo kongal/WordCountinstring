@@ -7,3 +7,6 @@ J:\MYWORKS\WordcountInstring\WordcountInstring\obj\Debug\WordcountInstring.pdb
 J:\MYWORKS\GITHUB\WordcountInstring\WordcountInstring\bin\Debug\WordcountInstring.exe.config
 J:\MYWORKS\GITHUB\WordcountInstring\WordcountInstring\obj\Debug\WordcountInstring.exe
 J:\MYWORKS\GITHUB\WordcountInstring\WordcountInstring\obj\Debug\WordcountInstring.pdb
+C:\Users\Shiva Kumar\source\repos\WordCountinstring\WordcountInstring\WordcountInstring\bin\Debug\WordcountInstring.exe.config
+C:\Users\Shiva Kumar\source\repos\WordCountinstring\WordcountInstring\WordcountInstring\obj\Debug\WordcountInstring.exe
+C:\Users\Shiva Kumar\source\repos\WordCountinstring\WordcountInstring\WordcountInstring\obj\Debug\WordcountInstring.pdb
